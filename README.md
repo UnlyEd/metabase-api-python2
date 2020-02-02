@@ -1,3 +1,5 @@
+> Fork meant to adapt the origin project to Python 2 (only compatible with py 3) but doesn't work. Put aside because we don't need it anymore.
+
 # metabase-py
 
 python wrapper for metabase api
